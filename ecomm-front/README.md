@@ -28,6 +28,10 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Also do not froget to add your details in .env file
+-Add your mongoDB cluster database collection URI
+-Create account on stripe and create a project on it 
+- copy and paste your stripe Public and private key in .env file
 
 ## Deploy on Vercel
 
